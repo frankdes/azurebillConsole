@@ -1,0 +1,17 @@
+{
+
+  "Settings": {
+    "siteCount": 2,
+    "folderCount": 2,
+    "fileCount": 2,
+    "NumberOfUpdates": 2,
+    "maxtrycount": 2,
+    "trypause": 1000,
+    "fulllog": "C:\\azurebill\\logs",
+    "errorlog": "C:\\azurebill\\logs",
+    "saveItem": "https://azurebill.azurewebsites.net/api/saveItem",
+    "saveItemTest1": "https://azurebill.azurewebsites.net/api/saveItemTest1",
+    "runmode": "test1",
+    "sitedirectlink": "storage connection"
+  }
+}
